@@ -55,3 +55,10 @@ comp: $(EXEC)
 # Clean target to remove compiled files
 clean:
 	rm -f $(EXEC) $(OBJ)
+#bin/a.out = mini_ci
+#make = make executables
+#clean
+#comp = check
+#debug
+#
+#
